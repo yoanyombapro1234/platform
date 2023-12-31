@@ -171,7 +171,7 @@
     "webpack-merge": "^5.9.0"
   },
   "build": {
-    "productName": "Solomon AI",
+    "productName": "solomon-ai",
     "appId": "io.solomon-ai.application",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
