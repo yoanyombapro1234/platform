@@ -171,8 +171,8 @@
     "webpack-merge": "^5.9.0"
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.erb.ElectronReact",
+    "productName": "Solomon AI",
+    "appId": "io.solomon-ai.application",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
     "files": [
